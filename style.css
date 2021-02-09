@@ -1,0 +1,33 @@
+* {
+  margin: 10;
+  padding: 10;
+}
+body {
+  background-color: oldlace;
+  text-align: center;
+  margin: 30px;
+  padding: 30px;
+  color: white;
+}
+.form {
+  color: darkslateblue;
+  text-decoration: underline black;
+}
+fieldset {
+  background-color: darkslateblue;
+  text-align: justify;
+}
+.button {
+  text-align: center;
+}
+
+.html {
+  background-color: white;
+}
+.thank {
+  color: darkslateblue;
+}
+
+h3 {
+  color: black;
+}
